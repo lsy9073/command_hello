@@ -1,3 +1,6 @@
+// For command line git tutoral
+// GitHub modification
+
 print("hello world")
 print("Tell your world")
 <<<<<<< HEAD
